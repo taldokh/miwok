@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Miwok App
 ===================================
 
@@ -46,7 +46,3 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
-=======
-# miwok
-translator/educational app for learning the miwok language 
->>>>>>> 16d2dc15f8403d48857cea408652c6050f147d11
